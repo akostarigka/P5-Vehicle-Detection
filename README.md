@@ -274,7 +274,7 @@ y_start_stop_list = [[414, 478], [446, 510], #  for scale 1.0
 
 #### Final pipeline tested on video
 
-Finally the pipeline was successfully tested on the project video. A link of the output video can be found [here](https://github.com/akostarigka/P4-AdvancedLaneLines/blob/master/output_video.mp4).
+Finally the pipeline was successfully tested on the project video. A link of the output video can be found [here](./output_video.mp4).
 
 ![alt text][image8]
 
